@@ -1,2 +1,3 @@
-# vuejs-nodejs-typescript-example
-Example Project with an Vue.js with nodejs development with typescript
+# LeagueCalc
+cd api -> npm i -> npm run start
+cd my-app -> npm i -> npm run electron:serve
