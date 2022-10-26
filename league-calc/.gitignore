@@ -16,6 +16,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-
-#Electron-builder output
-/dist_electron
